@@ -1,13 +1,13 @@
 ![Moov - Criamos o que sua empresa precisa]()
 
-# Moov  
-**Seu mundo em movimento.**
+# zoov 
+**Criamos o que sua empresa precisa.**
 
 ---
 
 ## Visão Geral
 
-A **Moov** é uma empresa de tecnologia focada no desenvolvimento de **soluções digitais inteligentes**, como **sites institucionais, plataformas web, sistemas personalizados e aplicativos mobile**. Atuamos com excelência em todo o ciclo de vida do produto — da estratégia ao lançamento — entregando resultados reais para marcas que querem se destacar no mundo digital.
+A **zoov** é uma empresa de tecnologia focada no desenvolvimento de **soluções digitais inteligentes**, como **sites institucionais, plataformas web, sistemas personalizados e aplicativos mobile**. Atuamos com excelência em todo o ciclo de vida do produto — da estratégia ao lançamento — entregando resultados reais para marcas que querem se destacar no mundo digital.
 
 Nosso propósito é claro: **criar soluções sob medida que resolvem problemas reais**, com estética, performance e escalabilidade.
 
@@ -75,5 +75,5 @@ Figma · Adobe XD · Illustrator
 
 ---
 
-**Moov** — Criamos o que sua empresa precisa.  
+**zoov** — Criamos o que sua empresa precisa.  
 **Seu mundo em movimento.**
